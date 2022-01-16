@@ -1,3 +1,2 @@
-# Handwritten-Digit-Prediction
-Using the MNIST handwritten digit dataset and keras for building the neural network. We created a sequential model having three layer, input layer, hidden layer and, output layer. 
-Pre-processing of image involves scaling of the  X-train and X-test for better and faster evaluation. For every input image, we will resize it to our requirements in gray scale, and if required then invert the image also.  
+# COVID-19 Data Analysis and Forecasting
+The forecasting model built using the prophet forecasting procedure which is an open-source tool from Facebook, is a COVID-19 Data Analysis and Forecasting model which words on a dataset having information about the COVID cases across different countries/regions on the different days. The model has been coded in the programming language Python. 
